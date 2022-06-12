@@ -12,14 +12,14 @@ Hello World!
                          Business Analyst
     Started preparing for Civil Services simulataneously. 
     
-   ** Now I am back to my Beginner Journey of Starting my Career.* 
+   Now I am back to my Beginner Journey of Starting my Career.* 
          I started to ponder over my career direction and started revisiting my experiences and domain, knowledge gained 
          through civil services preparation and I narrowed my interest towards Sustainability, Economics, Climate Change , Business and nextgen Tech.
          After a through research of 3 months in each field and reading many articles and career growth prospects, I found that there was no further
          narrowing of career choice as the world is evolving very rapidly and multidimensionally cutting across many diffrent subjects, it is better 
          to choose a career where I evolve through constant learning and unlearning. Yeah! finally this introspection of me said - 'Survaival of the fittest'
          
-         Again, I started researching for another 2 months for finding answers to the quations like  where and how to strat my career , spending sleepless nights, 
+         Again, I started researching for another 2 months for finding answers to the questions like  where and how to start my career , spending sleepless nights, 
          tensed mornings, difficulty to face people because of my current joblessness and all other negative vibes that follows when things dont go right , 
          peer presure, financial dependencies, career break and other unplanned events that happen due to wrong decisons.
          
