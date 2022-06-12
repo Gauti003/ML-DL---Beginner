@@ -33,7 +33,8 @@ Hello World!
                                          and I will learn, to prevail in this ever evolving world. 
                                              
               2. Yes, I can Learn - what next?: Why did I chose ML/DL/Ai to learn and make a career out of it ?
-                                    For the next 2 or 3 decades this tech is gona evolve rapidly and pretty much everything we depend on today has this                                                     technology intertwined. Finances, food, shopping, nameit this tech is inevitable. Since i belive  this has a future 
+                                    For the next 2 or 3 decades this tech is gona evolve rapidly and pretty much everything we depend on today has this
+                                    technology intertwined. Finances, food, shopping, nameit this tech is inevitable. Since i belive  this has a future 
                                     to make a career and to some extent even a minimalst tech user will make use of Ai/ML/DL exampe atleast in UPI 
                                     payments, shopping, social media etc. 
                                             
