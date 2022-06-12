@@ -24,22 +24,22 @@ Hello World!
    peer presure, financial dependencies, career break and other unplanned events that happen due to wrong decisons.
          
     After extensive research, I decided to restart my career with nextgen technologies like DS/ML/DL/Ai , but why ? whats my motivation and confidence?
-             Yes, I did have a lot of selfdoubts about choosing a new field , difficulties in unlearning and relearning, employability, job Prospects, 
-             experience, paycheck, and many more.
+          Yes, I did have a lot of selfdoubts about choosing a new field , difficulties in unlearning and relearning, employability, job Prospects, 
+          experience, paycheck, and many more.
                     
     I started answering to these selfdoubts as follows:
-             1. Confidence & Courage  : To travel a unknown path we need courage and confidence , yes I have it - look at my previous travel path, I did it.
-                                        Took risks , gained Knowledge, this journey was an experience initself about my strength and weakness. I can learn 
-                                         and I will learn, to prevail in this ever evolving world. 
+       1. Confidence & Courage :To travel a unknown path we need courage and confidence , yes I have it - look at my previous travel path, I did it.
+                                Took risks , gained Knowledge, this journey was an experience initself about my strength and weakness. I can learn 
+                                and I will learn, to prevail in this ever evolving world. 
                                              
-              2. Yes, I can Learn - what next?: Why did I chose ML/DL/Ai to learn and make a career out of it ?
-                                    For the next 2 or 3 decades this tech is gona evolve rapidly and pretty much everything we depend on today has this
-                                    technology intertwined. Finances, food, shopping, nameit this tech is inevitable. Since i belive  this has a future 
-                                    to make a career and to some extent even a minimalst tech user will make use of Ai/ML/DL exampe atleast in UPI 
-                                    payments, shopping, social media etc. 
+       2. Yes, I can Learn - what next?: Why did I chose ML/DL/Ai to learn and make a career out of it ?
+                             For the next 2 or 3 decades this tech is gona evolve rapidly and pretty much everything we depend on today has this
+                             technology intertwined. Finances, food, shopping, nameit this tech is inevitable. Since i belive  this has a future 
+                             to make a career and to some extent even a minimalst tech user will make use of Ai/ML/DL exampe atleast in UPI 
+                             payments, shopping, social media etc. 
                                             
-              3. Ok, all good! i have chosen my career path, and also have a strong reason to believe its the right decision made and also ready to face 
-                 any adversaries that comes in this path. Everything has its own advantages and disadvatages , have to deal with it.
+        3. Ok, all good! i have chosen my career path, and also have a strong reason to believe its the right decision made and also ready to face 
+           any adversaries that comes in this path. Everything has its own advantages and disadvatages , have to deal with it.
                      
                      
    ****** Finally starting my journey into Ai/ML/DL/ ---- add many more as tech evolves *********************
