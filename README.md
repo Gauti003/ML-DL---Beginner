@@ -43,11 +43,17 @@ Hello World!
                      
    ****** Finally starting my journey into Ai/ML/DL/ ---- add many more as tech evolves *********************
                                         
-                                             
+   ** Machine learning, at its core, is the discipline of teaching machines to detect patterns and perform tasks by presenting them training data**
+      the more training data, the better machines perform in various tasks such as medical analysis, financial analysis, bio technology, research,
+      games, fraud detection—with hundreds of new applications getting published every day in diverse research disciplines such as biology, mathematics, 
+      finance, engineering, history, and law theory. More training data leads to a higher degree of automation which, in turn, generates better results 
+      much quicker and cheaper than ever before.                                                                              
           
+      Data scientists use computers to gain insights from massive amounts of data. These insights have a profound influence on the products we see,
+      the medicines we take, the education we enjoy, the movies we watch, the routes we drive, the holidays we choose, and the foods we produce and 
+      consume.                                      
                                              
-                                             
-                                             
+      Source: Coffe Break Numpy                                      
                                              
                                              
                                              
